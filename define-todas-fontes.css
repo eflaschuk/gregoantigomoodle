@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'KadmosU';
+    src: 
+      local(KadmosU),
+      url('https://raw.githubusercontent.com/eflaschuk/gregoantigomoodle/main/KadmosU.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BosporosU';
+    src: 
+    local(BosporosU)
+    url('https://raw.githubusercontent.com/eflaschuk/gregoantigomoodle/main/BosporosU.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OldStandard';
+    src: 
+      url('https://raw.githubusercontent.com/eflaschuk/gregoantigomoodle/main/OldStandard-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OldStandard';
+    src: 
+      url('https://raw.githubusercontent.com/eflaschuk/gregoantigomoodle/main/OldStandard-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OldStandard';
+    src: 
+      url('https://raw.githubusercontent.com/eflaschuk/gregoantigomoodle/main/OldStandard-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'OldStandard';
+    src: 
+      url('https://raw.githubusercontent.com/eflaschuk/gregoantigomoodle/main/OldStandard-BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Brill';
+    src: 
+      url('https://raw.githubusercontent.com/eflaschuk/gregoantigomoodle/main/Brill-Roman.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Brill';
+    src: 
+      url('https://raw.githubusercontent.com/eflaschuk/gregoantigomoodle/main/Brill-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Brill';
+    src: 
+      url('https://raw.githubusercontent.com/eflaschuk/gregoantigomoodle/main/Brill-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Brill';
+    src: 
+      url('https://raw.githubusercontent.com/eflaschuk/gregoantigomoodle/main/Brill-BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
